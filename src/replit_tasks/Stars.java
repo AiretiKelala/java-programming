@@ -13,6 +13,8 @@ public class Stars {
             star = star + "*";
             System.out.println(star);
 
+            System.out.println("Adding Github NOW!");
+
 
         }
 
